@@ -7,16 +7,16 @@ The age of abalone is determined by cutting the shell through the cone, staining
 
 Given is the attribute name, attribute type, the measurement unit and a brief description. The number of rings is the value to predict. 
 
-<b>Name / Data Type / Measurement Unit / Description</b>
-Sex / nominal / -- / M, F, and I (infant)
-Length / continuous / mm / Longest shell measurement
-Diameter / continuous / mm / perpendicular to length
-Height / continuous / mm / with meat in shell
-Whole weight / continuous / grams / whole abalone
-Shucked weight / continuous / grams / weight of meat
-Viscera weight / continuous / grams / gut weight (after bleeding)
-Shell weight / continuous / grams / after being dried
-Rings / integer / -- / +1.5 gives the age in years. 
+<b>Name / Data Type / Measurement Unit / Description</b><br>
+Sex / nominal / -- / M, F, and I (infant)<br>
+Length / continuous / mm / Longest shell measurement<br>
+Diameter / continuous / mm / perpendicular to length<br>
+Height / continuous / mm / with meat in shell<br>
+Whole weight / continuous / grams / whole abalone<br>
+Shucked weight / continuous / grams / weight of meat<br>
+Viscera weight / continuous / grams / gut weight (after bleeding)<br>
+Shell weight / continuous / grams / after being dried<br>
+Rings / integer / -- / +1.5 gives the age in years. <br>
 
 You have to predict the rings of each abalone which will lead us to the age of that abalone. 
 
