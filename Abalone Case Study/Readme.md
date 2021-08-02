@@ -7,7 +7,7 @@ Attribute Information
 
 Given is the attribute name, attribute type, the measurement unit and a brief description. The number of rings is the value to predict. 
 
-Name / Data Type / Measurement Unit / Description
+**Name / Data Type / Measurement Unit / Description**
 -----------------------------
 Sex / nominal / -- / M, F, and I (infant)
 Length / continuous / mm / Longest shell measurement
