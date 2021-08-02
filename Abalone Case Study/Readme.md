@@ -1,9 +1,9 @@
-<h2>Abalone Case Study</h2><br>
+<h1>Abalone Case Study</h1><br>
 
-<b>Problem Statement:</b><br>
+<h2>Problem Statement:</h2><br><br>
 The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task. Other measurements, which are easier to obtain, are used to predict the age. Further information, such as weather patterns and location (hence food availability) may be required to solve the problem.
 
-Attribute Information
+<h2>Attribute Information</h2>
 
 Given is the attribute name, attribute type, the measurement unit and a brief description. The number of rings is the value to predict. 
 
